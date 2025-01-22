@@ -1,4 +1,5 @@
 Welcome To The BR3XALITY Texture Pack Page!
+This Pack Is For Minecraft Bedrock Editon.
 Installation Instructions:
 1. Go To The Releases Page
 2. Download "Source Code (.zip)"
